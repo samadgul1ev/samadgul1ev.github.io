@@ -10,3 +10,5 @@
 [Урок 6.1](https://codepen.io/L1mor/pen/jGVJjg) и [Урок 6.2](https://codepen.io/L1mor/pen/ZXBZEQ) - позиционирование в CSS 
 
 [Урок 7](https://samadgul1ev.github.io/lesson_7/) - Сверстанный сайт на чистом HTML и CSS 
+
+[Урок 8](https://samadgul1ev.github.io/lesson_8/) - Сетка bootsrap 
