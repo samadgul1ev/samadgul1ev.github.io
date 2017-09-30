@@ -1,0 +1,104 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+}
+
+.section {
+	padding: 30px 10%;
+}
+.header {
+	margin-top: 80px;
+	text-align: center;
+	font-size: 24px;
+	color: #333333;
+}
+
+.header span {
+	display: block;
+	font-weight: 300;
+}
+
+.header strong {
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.main {
+	margin-top: 80px;
+	text-align: center;
+}
+
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.form {
+	border: 5px #2727d9 solid;
+	padding: 20px;
+	margin-left: 30px;
+	
+}
+
+.form-header {
+	margin-bottom: 26px;
+	text-align: center; 
+	font-size: 20px;
+	font-weight: 900;
+	color: #333333;
+}
+
+.form input {
+	margin-top: 11px;
+	display: block;
+	width: 300px;
+	padding: 15px;
+	font-size: 18px;
+	border: 1px solid #333;
+}
+
+.btn {
+	width: 300px;
+	background-color: #2727d9;
+	border: none;
+	color: #fff; 
+	height: 60px;
+	font-size: 18px;
+	font-weight: 900;
+	margin-bottom: 12px;
+	display: block;
+	margin: 11px auto;
+}
+
+.poch {
+	margin-top: 100px;
+	text-align: center;
+	font-size: 24px;
+	font-weight: 900;
+	color: #333333;
+	text-transform: uppercase;
+}
+
+.col {
+	margin: 10px 30px;
+	display: inline-block;
+	text-align: center;
+}
+
+.feature {
+	margin: 60px auto;
+	text-align: center;
+}
+
+.clients {
+	margin-top:50px;
+}
+
+.clients img {
+	display: inline-block;
+	margin: 0 20px 33px;
+}
