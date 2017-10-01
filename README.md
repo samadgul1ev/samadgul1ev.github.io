@@ -14,3 +14,7 @@
 [Урок 8](https://samadgul1ev.github.io/lesson_8/) - Сетка bootsrap 
 
 [Урок 9](https://samadgul1ev.github.io/lesson_9/) - Сайт из 7 урока с bootsrap'ом
+
+[Урок 10](https://samadgul1ev.github.io/main.less) - Знакомство с Less
+
+[Урок 12](https://samadgul1ev.github.io/) - Работа с репозиторием GitHub
