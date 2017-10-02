@@ -1,0 +1,66 @@
+body {
+	font-size: 12px;
+}
+p {
+	margin: 0;
+}
+.ront {
+	height: 570px;
+	background: url(../img/bg.png) no-repeat;
+	padding: 100px 125px;
+}
+
+.form {
+	height: 370px;
+	width: 320px;
+	background-color: #fff;
+	border: 1px #cfdede solid;
+}
+
+.create {
+	padding: 5px;
+	margin-top: -4px;
+	position: absolute;
+	margin-left: 30px;
+	color: #fff;
+	background: #01b3b3;
+	width: 148px;
+	height: 25px;
+	font-weight: bold;
+}
+
+.zvezda {
+	display: inline-block;
+	color: #01b3b3;
+}
+.email {
+	margin: 53px 0 10px 30px;
+	display: inline-block;
+	font-weight: bold;
+}
+
+input {
+	background: url(../img/bg.png) no-repeat;
+	margin-bottom: 17px;
+	width: 260px;
+	height: 30px;
+	margin-left: 30px;
+	border: 1px solid #cfdede;
+	padding: 11px;
+	font-style: italic;
+	color: #999d9d;
+}
+
+.not {
+	margin-top: 0;
+}
+
+.form-btn {
+	width: 260px;
+	height: 45px;
+	margin: 20px 0 0 30px;
+	background: #01b3b3;
+	color: #fff;
+	font-weight: bold;
+	font-size: 16px;
+}
