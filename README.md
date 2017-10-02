@@ -18,3 +18,5 @@
 [Урок 10](https://samadgul1ev.github.io/main.less) - Знакомство с Less
 
 [Урок 12](https://samadgul1ev.github.io/) - Работа с репозиторием GitHub
+
+[Урок 13](https://samadgul1ev.github.io/PerfectPixel/) - Вертска PerfectPixel
