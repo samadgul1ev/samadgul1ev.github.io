@@ -20,3 +20,5 @@
 [Урок 12](https://samadgul1ev.github.io/) - Работа с репозиторием GitHub
 
 [Урок 13](https://samadgul1ev.github.io/PerfectPixel/) - Вертска PerfectPixel
+
+[Практика, часть 1](https://samadgul1ev.github.io/practic_part1/src/) - Модуль 5, практика часть 1
