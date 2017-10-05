@@ -21,6 +21,8 @@
 
 [Урок 13](https://samadgul1ev.github.io/PerfectPixel/) - Вертска PerfectPixel
 
-[Практика, часть 1](https://samadgul1ev.github.io/practic_part1/src/) - Модуль 5, практика часть 1
+[Практика, часть 1](samadgul1ev.github.io/practic_part1/src/) - Модуль 5, практика часть 1
 
 [Урок 14](samadgul1ev.github.io/lesson_14_fonts/) - Работа со шрифтами
+
+[Практика, часть 2](samadgul1ev.github.io/practic_part2/) - Модуль 5, практика часть 1
