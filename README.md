@@ -26,3 +26,5 @@
 [Урок 14](samadgul1ev.github.io/lesson_14_fonts/) - Работа со шрифтами
 
 [Практика, часть 2](samadgul1ev.github.io/practic_part2/) - Модуль 5, практика часть 1
+
+[Урок 15](samadgul1ev.github.io/lesson_15/) - Псевдоклассы и псевдоэлементы
