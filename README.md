@@ -32,3 +32,5 @@
 [Практика, часть 3](samadgul1ev.github.io/practic_part3/) - Модуль 5. Практика. Часть 3.
 
 [Урок 16](samadgul1ev.github.io/lesson_16/) - Слайдеры
+
+[Практика, часть 4](samadgul1ev.github.io/practic_part4/) - Модуль 5. Практика. Часть 4.
