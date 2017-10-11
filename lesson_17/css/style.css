@@ -1,0 +1,43 @@
+// .modal-header {
+// 	background: #301e32;
+// 	color: #fff;
+// 	text-transform: uppercase;
+// 	font-weight: 900;
+// }
+// .modal-body {
+// 	background: #372338;
+// 	color: #fff;
+// }
+.modal-header {
+	background: #8d62ad;
+	color: #fff;
+}
+.sotka {
+	width: 100%;
+}
+.modal-footer, .modal-body {
+	border: 7px #8d62ad solid;
+}
+.modal-body {
+	border-bottom: none;
+	font-weight: 700;
+}
+.modal-footer {
+	border-top: none;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+.modal-header .close {
+    color: #fff;
+    width: 3rem;
+    height: 3rem;
+    color: #fff;
+    border: solid 2px #fff;
+    font-weight: 700;
+}
+.modal-header .close:hover {
+	background-color: #fff;
+	color: #8d62ad;
+	transition: 0.3s;
+}
+
