@@ -36,3 +36,5 @@
 [Практика, часть 4](samadgul1ev.github.io/practic_part4/) - Модуль 5. Практика. Часть 4.
 
 [Урок 17](samadgul1ev.github.io/lesson_17/) - Модальные окна
+
+[Практика, часть 5](samadgul1ev.github.io/practic_part5/) - Модуль 5. Практика. Часть 5.
