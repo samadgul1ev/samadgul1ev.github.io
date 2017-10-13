@@ -286,3 +286,8 @@ section {
     text-align: center;
   }
 }
+@media (max-width: 508px) {
+  .auto {
+    display: none;
+  }
+}
