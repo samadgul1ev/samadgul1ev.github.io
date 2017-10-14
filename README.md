@@ -39,4 +39,6 @@
 
 [Практика, часть 5](samadgul1ev.github.io/practic_part5/) - Модуль 5. Практика. Часть 5.
 
-[Урок 18](samadgul1ev.github.io/lesson_18.1/) - Табы, (samadgul1ev.github.io/lesson_18.2/) - Аккордеоны
+[Урок 18.1](samadgul1ev.github.io/lesson_18.1/) - Табы
+
+[Урок 18.2](samadgul1ev.github.io/lesson_18.2/) - Аккордеоны
