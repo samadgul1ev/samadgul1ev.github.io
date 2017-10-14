@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,500,700&subset=cyrillic-ext');
+
+body {
+	font-family: 'Ubuntu', sans-serif;
+	background-image: url(../img/bg.jpg);
+}
+.main-header {
+	margin: 80px 0 18px 0;
+	font-weight: 700;
+	color: #0bbaf0;
+}
+.second-header {
+	color: #0bbaf0;
+}
+.panel-group {
+	width: 860px;
+	text-align: center;
+	margin: 0 auto;
+}
+hr {
+	height: 2px;
+	width: 130px;
+	background: #cbcdce;
+}
+.panel-default>.panel-heading {
+	background-color: #0bbaf0;
+	color: #fff;
+	margin: 0 -9px 0 -9px;
+}
+.panel-title, .panel-body {
+	font-weight: 500;
+}
