@@ -44,3 +44,5 @@
 [Урок 18.2](samadgul1ev.github.io/lesson_18.2/) - Аккордеоны
 
 [Практика, часть 6](samadgul1ev.github.io/practic_part6/) - Модуль 5. Практика. Часть 6.
+
+[Урок 19](samadgul1ev.github.io/lesson_19/) - Анимация на CSS3.
