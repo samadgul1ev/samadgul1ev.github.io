@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+	<title>Tabs</title>
+</head>
+<body>
+	<div class="container">
+	 <div class="main-content">
+		<div class="vse wow fadeIn" data-wow-delay="0.3s">
+		  <!-- Nav tabs -->
+		  <div class="gd wow bounce" data-wow-delay="0.9s">
+			  <ul class="nav nav-tabs" >
+			    <li class="active"><a href="#login" data-toggle="tab">Вход</a></li>
+			    <li><a href="#registration" data-toggle="tab">Регистрация</a></li>
+			  </ul>
+		  </div>
+		  <!-- Tab panes -->
+		  <div class="tab-content">
+		    <div class="tab-pane active" id="login">
+		     <div class="row">
+		    	<form action="#">
+		    		<input type="text" class="login wow bounceInRight" data-wow-delay="1.7s" placeholder="Ваше имя">
+		    		<input type="text" class="login not wow bounceInRight" data-wow-delay="2.2s" placeholder="Пароль">
+		    	</form>
+		    	<a href="#"><p class="forget col-xs-5 wow fadeIn" data-wow-delay="4s">Забыли пароль?</p></a>
+		     </div>
+		     <div class="row">
+		    	<label class="col-xs-6"><input type="checkbox">&emsp;Напомнить мне</label>
+		    	<div class="col-xs-2 col-xs-offset-4">
+		    		<a href="#"><img src="img/shape.png" class="pur wow flipInY" data-wow-delay="5s" alt=""></a>
+		    	</div>
+		     </div>
+		    </div>
+		    <div class="tab-pane" id="registration">
+		    	<div class="row">
+					<form action="#">
+						<input type="text" class="login" placeholder="Ваше имя">
+						<input type="text" class="login not" placeholder="Ваш Email">
+						<input type="text" class="login not" placeholder="Придумайте пароль">
+					</form>
+					<button class="btn btn-primary btn-lg">Зарегистрироваться</button>
+				 </div>
+		    </div>
+				 
+				
+		    </div>
+
+		 </div>
+		</div>
+	</div>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script>
+		var wow = new WOW;
+		wow.init();
+	</script>
+	<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
