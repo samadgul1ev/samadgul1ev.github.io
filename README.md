@@ -46,3 +46,9 @@
 [Практика, часть 6](samadgul1ev.github.io/practic_part6/) - Модуль 5. Практика. Часть 6.
 
 [Урок 19](samadgul1ev.github.io/lesson_19/) - Анимация на CSS3.
+
+[Практика, часть 7](samadgul1ev.github.io/practic_part7/) - Модуль 5. Практика. Часть 7.
+
+[Урок 20](samadgul1ev.github.io/lesson_20/) - Видео-фон на сайте.
+
+
