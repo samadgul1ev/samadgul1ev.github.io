@@ -67,6 +67,37 @@ button, input, a, textarea {
 	}
 }
 
+/* Оформление форм */
+
+.form {
+	/* поле для ввода */
+	&-input {
+		display: block;
+		margin: 2rem 0;
+		width: 100%;
+		border: 1px solid @border-input;
+		border-radius: 5px;
+		padding: 1.5rem;
+	}
+	/* Подписи к полям */
+	label {
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%) translateY(-50%);
+		padding: 0.5rem;
+		.reg();
+		font-size: 1.3rem;
+		background-color: @white;
+	}
+	/* Кнопка отправить заявку */
+	&-btn {
+		display: block;
+		width: 100%;
+		height: 5.5rem;
+		font-size: 1.6rem;
+	}
+}
+
 /* Typography */
 section {
 	padding: 10rem 0;
@@ -104,7 +135,7 @@ section {
 			text-transform: uppercase;
 		}
 		p {
-
+			
 		}
 	}
 	/* Подзаголовок */
@@ -147,32 +178,7 @@ section {
 				font-size: 1.9rem;
 			}
 		}
-		/* поле для ввода */
-		&-input {
-			display: block;
-			margin: 2rem 0;
-			width: 100%;
-			border: 1px solid @border-input;
-			border-radius: 5px;
-			padding: 1.5rem;
-		}
-		/* Подписи к полям */
-		label {
-			position: absolute;
-			display: inline-block;
-			left: 50%;
-			transform: translateX(-50%) translateY(-50%);
-			padding: 0.5rem;
-			font-size: 1.3rem;
-			background-color: @white;
-		}
-		/* Кнопка отправит заявку */
-		&-btn {
-			display: block;
-			width: 100%;
-			height: 5.5rem;
-			font-size: 1.6rem;
-		}
+
 		/* Подпись под кнопкой */
 		small {
 			display: block;
@@ -322,6 +328,7 @@ section {
 
 /* Секция с отзывами */
 .feedback {
+	position: relative;
 	background: url(../img/feedback/feedback_bg.jpg) no-repeat center;
 	background-size: cover;
 	&-prev-btn {
@@ -377,6 +384,32 @@ section {
 			}
 		}
 	}
+	&-form {
+		margin-top: 5rem;
+		padding: 4rem 10rem;
+		background-color: @white;
+		text-align: center;
+		h3 {
+			margin-bottom: 1rem;
+			.bold();
+			font-size: 2rem;
+		}
+		label {
+			transform: translate(-50%, 8px);
+			.bold();
+		}
+	}
+	&-btn {
+		max-width: 30rem;
+		margin: auto;
+	}
+}
+
+.hand {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	max-width: 30rem;
 }
 
 /* Оформление модальных окон */
@@ -423,6 +456,18 @@ section {
 }
 
 
+
+@media (max-width: 1199px) {
+	.feedback {
+		&-form {
+			padding: 3rem 5rem;
+		}
+		.fotorama {
+			margin-bottom: 3rem;
+		}
+	}
+}
+
 @media (max-width: 991px) {
 	.main {
 		background-position: top right;
@@ -453,8 +498,15 @@ section {
 	.section-header_light {
 		margin-bottom: 0;
 	}
-	.object {
-		margin-top: 3rem;
+	.feedback {
+		&-form{
+			label {
+				transform: translate(-50%, -50%);
+			}
+		}
+	}
+	.hand {
+		display: none;
 	}
 }
 
@@ -468,10 +520,30 @@ section {
 	.wrap-block {
 		text-align: center;
 	}
+	.feedback {
+		&-prev-btn {
+			left: 0;
+		}
+		&-next-btn {
+			right: 0;
+		}
+	}
 }
+
+
 @media (max-width: 508px) {
 	.auto {
 		display: none;
 	}
+	.feedback-text {
+		width: 100%;
+	}
+	.form {
+		&-input {	
+			margin-bottom: 3rem;
+		}
+	}
+	.section-header {
+		margin-bottom: 4rem;
+	}
 }
-
