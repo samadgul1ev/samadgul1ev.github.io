@@ -51,4 +51,6 @@
 
 [Урок 20](samadgul1ev.github.io/lesson_20/) - Видео-фон на сайте.
 
+[Практика, часть 8](samadgul1ev.github.io/practic_part8/) - Модуль 6. Практика. Часть 8.
+
 
