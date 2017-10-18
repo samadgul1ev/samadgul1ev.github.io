@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=cyrillic');
+
+body {
+	font-family: 'Open Sans';
+}
+.bold {
+	font-weight: 900;
+}
+.contacts {
+	position: relative;
+	z-index: 10;
+	height: 400px;
+	background-color: #c60b0b;
+	padding: 6rem 2rem;
+	color: #fff;
+	font-size: 1.8rem;
+}
+.contacts h2, p, a {
+	margin: 0;
+	color: #fff;
+}
+.contacts h2, p {
+	margin-bottom: 2.4rem;
+}
+.contacts a {
+	text-decoration: underline;
+}
+.footer {
+	padding: 3rem;
+}
+.black {
+	color: #000;
+}
+.footer h3 {
+	margin-top: 0;
+}
+.sert {
+	color: #666666;
+	margin-top: 1.5rem;
+}
+.tech {
+	font-size: 1.6rem;
+}
