@@ -53,4 +53,8 @@
 
 [Практика, часть 8](samadgul1ev.github.io/practic_part8/) - Модуль 6. Практика. Часть 8.
 
+[Практика, часть 9](samadgul1ev.github.io/practic_part9/) - Модуль 6. Практика. Часть 9.
+
+[Урок 22](samadgul1ev.github.io/lesson_22/) - Гео-карты для сайта.
+
 
