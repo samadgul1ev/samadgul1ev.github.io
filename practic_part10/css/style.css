@@ -595,6 +595,7 @@ section {
     width: 100%;
   }
   .form-input {
+    margin-top: 2rem;
     margin-bottom: 3rem;
   }
   .section-header {
