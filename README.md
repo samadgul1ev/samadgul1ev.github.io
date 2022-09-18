@@ -49,7 +49,7 @@
 
 [Практика, часть 7](samadgul1ev.github.io/practic_part7/) - Модуль 5. Практика. Часть 7.
 
-[Урок 20](samadgul1ev.github.io/lesson_20/) - Видео-фон на сайте.
+[Урок 20](/lesson_20/) - Видео-фон на сайте.
 
 [Практика, часть 8](samadgul1ev.github.io/practic_part8/) - Модуль 6. Практика. Часть 8.
 
